@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import {Route, Link, Switch, withRouter} from 'react-router-dom';
-import {Home, About, Posts} from './views'
+import {Home, About, Posts} from './views';
 
 class AppRouter extends Component {
     render() {

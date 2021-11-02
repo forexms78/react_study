@@ -7,4 +7,6 @@ const About = ({match}) => {
                                         :(<h1>About - Parameter : 없음 </h1>)}
         </div>
     )
-}
+}          
+
+export default About;
